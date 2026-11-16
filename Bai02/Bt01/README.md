@@ -1,4 +1,4 @@
-# BÀI TẬP 1 - THIẾT KẾ GIAO DIỆN REACT NATIVE
+  # BÀI TẬP 1 - THIẾT KẾ GIAO DIỆN REACT NATIVE
 
 # QUẢN LÝ CỬA HÀNG BÁNH NGỌT - SWEET CAKE
 
@@ -641,19 +641,23 @@ const styles = StyleSheet.create({
   },
 });
 
+
 **Các components khác **
 
 -CakeList.js
 
-<img width="389" height="419" alt="image" src="https://github.com/user-attachments/assets/8590541b-2058-4caa-b068-7f3752e0f17d" />
+<img width="626" height="691" alt="image" src="https://github.com/user-attachments/assets/d83a6ccc-39d7-4764-96df-a723654562de" />
+
 
 -Header.js
 
-<img width="420" height="239" alt="image" src="https://github.com/user-attachments/assets/d14d9f47-3fe1-4311-a3bd-d628d42e88ee" />
+<img width="604" height="690" alt="image" src="https://github.com/user-attachments/assets/56f5790d-8b9e-4b80-bd16-54f010f848e3" />
+
 
 -TabBar.js
 
-<img width="546" height="433" alt="image" src="https://github.com/user-attachments/assets/297893d3-87e1-455c-bffd-a4ee13cc939c" />
+<img width="662" height="686" alt="image" src="https://github.com/user-attachments/assets/85d19b9b-e020-41ea-a975-7ea0cf5e9794" />
+
 
 
 ## 9. Kết quả thực hiện
