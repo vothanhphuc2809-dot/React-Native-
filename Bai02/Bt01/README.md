@@ -47,13 +47,10 @@ Giao diện sử dụng tông màu hồng pastel, trắng và nâu, tạo cảm 
 
 | Component | Chức năng |
 |---|---|
-| App | Component chính, quản lý giao diện và danh sách sản phẩm |
-| Header | Hiển thị tên cửa hàng và biểu tượng giỏ hàng |
-| ProductItem | Hiển thị thông tin từng sản phẩm bánh |
-| ProductList | Hiển thị danh sách và lọc sản phẩm |
-| StoreInfo | Hiển thị thông tin liên hệ cửa hàng |
-| TabBar | Thành phần thanh điều hướng |
-
+| App.js | Component chính, quản lý giao diện ứng dụng, khai báo danh sách 8 loại bánh và kết hợp các Component để hiển thị nội dung. |
+| Header.js | Hiển thị phần đầu ứng dụng gồm tên cửa hàng SWEET CAKE, biểu tượng bánh và biểu tượng giỏ hàng. |
+| CakeList.js | Hiển thị danh sách các loại bánh, bao gồm tên bánh và giá tiền của từng sản phẩm.|
+| TabBar | Tạo thanh điều hướng gồm 3 nút Trang chủ, Món bánh và Quản lý, cho phép người dùng chuyển đổi giữa các màn hình. |
 ## 6. Công nghệ sử dụng
 
 - React Native: Xây dựng giao diện ứng dụng.
