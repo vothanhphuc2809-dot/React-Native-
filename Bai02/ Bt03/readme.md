@@ -8,8 +8,6 @@
 
 **Link Expo:** [Dán link ứng dụng Expo tại đây.](https://snack.expo.dev/@thanhphuc79/product-app)
 
-**Link GitHub Bt03:** [Dán link GitHub repository tại đây.](https://github.com/vothanhphuc2809-dot/React-Native-/edit/main/Bai02/%20Bt03)
-
 ## 2. Giới thiệu bài tập
 
 Xây dựng ứng dụng ProductApp bằng React Native (Expo) với giao diện bán đồ uống.
