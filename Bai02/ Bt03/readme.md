@@ -8,7 +8,7 @@
 
 **Link Expo:** [Dán link ứng dụng Expo tại đây.](https://snack.expo.dev/@thanhphuc79/product-app)
 
-**Link GitHub Bt03:** Dán link GitHub repository tại đây.
+**Link GitHub Bt03:** [Dán link GitHub repository tại đây.](https://github.com/vothanhphuc2809-dot/React-Native-/edit/main/Bai02/%20Bt03)
 
 ## 2. Giới thiệu bài tập
 
