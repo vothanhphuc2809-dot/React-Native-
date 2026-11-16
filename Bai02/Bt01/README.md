@@ -61,8 +61,6 @@ Giao diện sử dụng tông màu hồng pastel, trắng và nâu, tạo cảm 
 
 ## 7. Link ứng dụng Expo
 
-**Tên ứng dụng:** MyApp_V2
-
 **Link Expo Snack:**
 
 [https://snack.expo.dev/@thanhphuc79/myapp_v2](https://snack.expo.dev/@thanhphuc79/myapp_v2)
