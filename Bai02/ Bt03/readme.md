@@ -30,7 +30,7 @@ Bt03/
 
 ### 4.1. Component App
 
-- Khai báo danh sách 8 sản phẩm đồ uống.
+- Khai báo danh sách 7 sản phẩm đồ uống.
 - Hiển thị tiêu đề cửa hàng Drink Shop.
 - Sử dụng FlatList để kết xuất danh sách.
 - Truyền dữ liệu sản phẩm sang ProductCard thông qua props.
