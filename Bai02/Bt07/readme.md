@@ -46,7 +46,7 @@ Xây dựng ứng dụng BookingApp bằng React Native (Expo), cho phép ngư�
 <img width="459" height="645" alt="image" src="https://github.com/user-attachments/assets/8fab70f9-e5ac-4e9a-93d2-dd093d43a7c3" />
 
 
-### Đặt lịch
+### Đặt lịch dịch vụ
 
 <img width="449" height="641" alt="image" src="https://github.com/user-attachments/assets/84ba933d-1f03-4131-bda5-87ba98f347f5" />
 
